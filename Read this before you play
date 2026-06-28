@@ -1,0 +1,10 @@
+This is a Wordle game I made which has the special ability to test you about 4-letter and 6-letter words, not just 5-letter words. You can choose how many letters there are in the word when the game asks you.
+
+But firstly, you will have to install json and colorama on your computer. json handles your stats while colorama is the one helping to colour the letters of your guess. And of course, you will definitely have to
+install a Python software (if you haven't) and copy the code inside so that you can play it!
+
+If you want it easier, you should play "Wordle but there is option of 4 5 or 6 letters" as it has fewer words in the word lists. And if you are up for a challenge, you should play "Add more words to WORDLE word
+lists". It has more words - approximately 360 or more - for you to guess!
+
+P.S. For "Wordle but there is option of 4 5 or 6 letters", the words mostly start with A, though there may still be some starting with B.
+P.P.S And please don't mind the unprofessional title.
